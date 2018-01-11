@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Texas A&amp;M Quiz</string>
+    <string name="questionOne">1. What is the mascot of Texas A&amp;M?</string>
+    <string name="a1">Aggies</string>
+    <string name="b1">Revellie</string>
+    <string name="c1">Ol\' Sarge</string>
+    <string name="questionTwo">2. What year did the school open?</string>
+    <string name="a2">1876</string>
+    <string name="b2">1898</string>
+    <string name="c2">1908</string>
+    <string name="questionThree">3. Texas A&amp;M was the first public college opened in Texas?</string>
+    <string name="a3">True</string>
+    <string name="b3">False</string>
+    <string name="questionFour">4. How many football national championships has Texas A&amp;M won?</string>
+    <string name="a4">0</string>
+    <string name="b4">1</string>
+    <string name="c4">2</string>
+    <string name="questionFive">5. Is Texas A&amp;M is the second largest university in the nation?</string>
+    <string name="a5">Yes</string>
+    <string name="b5">No</string>
+    <string name="logo_description">Main logo for Texas A&amp;M</string>
+    <string name="checkButton">Check Answers</string>
+</resources>
